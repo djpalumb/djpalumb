@@ -1,4 +1,4 @@
-👋 Hi, I’m @djpalumb
+# David Palumbo
 
 Education:
   - Computer Science BS - University at Buffalo, Dec 2021
