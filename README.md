@@ -12,6 +12,7 @@ Interests and Experience With:
   - Embedded Systems
   - Parallel Processing
   - Reinforcement Learning
+  - Natural Language Processing
 
 <!---
 djpalumb/djpalumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
