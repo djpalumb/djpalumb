@@ -1,18 +1,8 @@
 # David Palumbo
 
-Education:
+## Education:
   - Computer Science BS - University at Buffalo, Dec 2021
   - Computer Science MS - Columbia University, Dec 2023
-
-Interests and Experience With: 
-  - Machine Learning
-  - Data Science
-  - Computer Vision
-  - Robotics 
-  - Embedded Systems
-  - Parallel Processing
-  - Reinforcement Learning
-  - Natural Language Processing
 
 ## Professional Experience
 ### Lasertron, Buffalo, NY
@@ -45,6 +35,16 @@ Interests and Experience With:
   - Explored cutting-edge developments with NLP models trained to perform AI code generation for robotics tasks
   - Integrated closed-loop concept from “Inner Monologue” into system from Google’s “Code as Policies” project
   - Embedded new low-level functionality into system to allow for new prompt keywords and objectives 
+
+## Interests and Experience With: 
+  - Machine Learning
+  - Data Science
+  - Computer Vision
+  - Robotics 
+  - Embedded Systems
+  - Parallel Processing
+  - Reinforcement Learning
+  - Natural Language Processing
 
 <!---
 djpalumb/djpalumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
