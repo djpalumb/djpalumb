@@ -5,7 +5,7 @@
   - Computer Science MS - Columbia University, Dec 2023
 
 ## Professional Experience
-### Federal Reserve Board
+### Federal Reserve Board, Washington, DC
 #### Data Scientist  -- Mar 2024 - Present
   - Fine-tuned and optimized embedding models, significantly enhancing performance for domain-specific results
   - Developed random forest and statistical models for time series data to forecast economic factors, supporting research
