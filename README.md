@@ -7,11 +7,10 @@
 ## Professional Experience
 ### Federal Reserve Board, Washington, DC
 #### Data Scientist  -- Mar 2024 - Present
-  - Fine-tuned and optimized embedding models, significantly enhancing performance for domain-specific results
+  - Designed and operationalized production statistical and machine learning models to guide data-driven decision-making
+  - Fine-tuned and optimized language embedding models, enhancing pipeline performance for domain-specific results
   - Developed random forest and statistical models for time series data to forecast economic factors, supporting research
-  - Guided data cleaning and preprocessing of text and numerical data, ensuring high-quality inputs across many projects
-  - Crafted and deployed advanced statistical and machine learning techniques to improve data-driven decision-making
-
+  - Guided cleaning and preprocessing of text and numerical data, ensuring high-quality inputs across many projects
 ### Lasertron, Buffalo, NY
 #### Lead Project Developer -- May 2023 – Dec 2023
   - Spearheaded development and direction as sole developer for arcade style racing game utilizing Unreal Engine
